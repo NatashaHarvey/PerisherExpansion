@@ -5,4 +5,4 @@ The ModelBuilder model (Built in ArcMap) will be upoloaded as well as the interm
 
 The Geodatabase.gdb contains all the intermediate data.
 Project.mxd is the ArcMAP document.
-Project_Toolbox.tbx contains the model (cap model). 
+Project_Toolbox.tbx contains the model (Cap_Model). 
